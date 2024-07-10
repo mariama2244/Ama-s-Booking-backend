@@ -1,0 +1,39 @@
+*, :before, :after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+  
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-grey{
+    background-color: rgba(224, 219, 219, 0.317);
+}
+.footer{
+    background-color: rgba(224, 219, 219, 0.317);
+}
+
+.footer ul li a{
+    text-decoration: none;
+    text-decoration-line: none;  
+    color: #212528;   
+}
+
+
+.banner img{
+  height: 30em;
+  width: 100%;
+}
+
+
+
+
+
+
